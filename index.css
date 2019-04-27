@@ -13,12 +13,12 @@ header {
 
 main {
   display: flex;
-  background-color: #FBFFF4;
+  background-color: #92C9D5;
   width: 100%;
   height: 100%;
-  flex-flow: column;;
+  flex-flow: row wrap;
   justify-content: center;
-  align-items: center;
+  align-items: center;1
 }
 
 footer {
@@ -39,7 +39,7 @@ footer {
   height: 100px;
   width: 100px;
   margin: 5px;
-  background-color: #FCF2EC;
+  background-color: #f3c5e0;
 }
 
 .setWidth {
